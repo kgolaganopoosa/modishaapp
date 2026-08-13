@@ -1,0 +1,5 @@
+node_modules/
+modisha_community.db
+.env
+.DS_Store
+npm-debug.log
